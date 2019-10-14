@@ -27,13 +27,13 @@ config.py
   ```
 3. Run each cells in the pre_processing notebook.
 
-Note: This may take some time to run.
+   Note: This may take some time to run.
 
-When this notebook is run successfuly you will notice a data.pickle file being formed in the directory.
+   When this notebook is run successfuly you will notice a data.pickle file being formed in the directory.
 
 4. Run each cells in the chatbot notebook file.
 
-Note : Training the model will take some time, depending on the GPU used : for this project Nvidia GTX 1050Ti was used.
+   Note : Training the model will take some time, depending on the GPU used : for this project Nvidia GTX 1050Ti was used.
 
 ## Author
 Pankaj Singh (MSc. Artifcial Intelligence, Cork institute of technology)
